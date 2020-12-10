@@ -16,6 +16,6 @@ This is a proof of concept project that was inspired from UD HCI course Fall, 20
 When you clone/download the code in Xcode, you will need to change the Signing & Capabilities --> Team into your account. Sometimes the Bundle Identififier is also needed to change.
 
 ## Acknowledgements
-[1] https://developer.apple.com/machine-learning/models/
-[2] https://medium.com/walmartglobaltech/build-your-first-ar-app-3c9f682d4c89
+[1] https://developer.apple.com/machine-learning/models/  \
+[2] https://medium.com/walmartglobaltech/build-your-first-ar-app-3c9f682d4c89 \
 [3] https://rozengain.medium.com/using-vision-framework-object-detection-in-arkit-c0b5366f465d
