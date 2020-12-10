@@ -1,3 +1,6 @@
+![plot](https://github.com/kyleearth/Real-World-Geometry/blob/main/FirstARApp/Real-World%20Geometry.png)
+
+
 # Real-World-Geometry
 
 This is a proof of concept project that was inspired from UD HCI course Fall, 2020. There are basic 3 modules in many levels uses a different variation of AR. Level 1 is fully implemented and functional.
@@ -19,3 +22,6 @@ When you clone/download the code in Xcode, you will need to change the Signing &
 [1] https://developer.apple.com/machine-learning/models/  \
 [2] https://medium.com/walmartglobaltech/build-your-first-ar-app-3c9f682d4c89 \
 [3] https://rozengain.medium.com/using-vision-framework-object-detection-in-arkit-c0b5366f465d
+
+
+For more infomation, please check out project website: https://raypatt.wixsite.com/geometry
