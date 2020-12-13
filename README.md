@@ -8,7 +8,7 @@ This is a proof of concept project that was inspired from UD HCI course Fall, 20
 
 * “Drop it in,” has the user explore their environment to solve geometric puzzles or activities placed in the AR environment, user is asked to find square shape. Currently, user can tap the screen to place a sqaure object on a detected plane. User can walk around and see the object from many perspectives.
  
-* “Find it,” has the user interact with their environment to unveil the geometric concept. Currently, the app use open source ML core model to detect book and keyboard with confidence of 0.9. A green retangle shaped indicator will show up when objects are detected 
+* “Find it,” has the user interact with their environment to unveil the geometric concept. Currently, the app use open source ML core model to detect book and keyboard with confidence of 0.9. A green rectangle shaped indicator will show up when objects are detected 
 
 ## Requirements
 
